@@ -1,0 +1,304 @@
+Uri: https://russia-samp.ru/
+File Name: c:\Downloaded Web Sites\russia-samp.ru\index.htm
+Content Type: text/html
+
+Uri: https://russia-samp.ru/nojs/index.html
+File Name: c:\Downloaded Web Sites\russia-samp.ru\nojs\index.html
+Content Type: text/html
+
+Uri: https://russia-samp.ru/images/favicon.png
+File Name: c:\Downloaded Web Sites\russia-samp.ru\images\favicon.png
+Content Type: image/png
+
+Uri: https://russia-samp.ru/css/reset.css
+File Name: c:\Downloaded Web Sites\russia-samp.ru\css\reset.css
+Content Type: text/css
+
+Uri: https://russia-samp.ru/bootstrap/css/bootstrap.min.css
+File Name: c:\Downloaded Web Sites\russia-samp.ru\bootstrap\css\bootstrap.min.css
+Content Type: text/css
+
+Uri: https://russia-samp.ru/fonts/awesome/css/font-awesome.min.css
+File Name: c:\Downloaded Web Sites\russia-samp.ru\fonts\awesome\css\font-awesome.min.css
+Content Type: text/css
+
+Uri: https://russia-samp.ru/css/animate.css
+File Name: c:\Downloaded Web Sites\russia-samp.ru\css\animate.css
+Content Type: text/css
+
+Uri: https://russia-samp.ru/owl/assets/owl.carousel.min.css
+File Name: c:\Downloaded Web Sites\russia-samp.ru\owl\assets\owl.carousel.min.css
+Content Type: text/css
+
+Uri: https://russia-samp.ru/fonts/circle/style.css
+File Name: c:\Downloaded Web Sites\russia-samp.ru\fonts\circle\style.css
+Content Type: text/css
+
+Uri: https://russia-samp.ru/css/stylef65e.css
+File Name: c:\Downloaded Web Sites\russia-samp.ru\css\stylef65e.css
+Content Type: text/css
+
+Uri: https://russia-samp.ru/css/responsivef65e.css
+File Name: c:\Downloaded Web Sites\russia-samp.ru\css\responsivef65e.css
+Content Type: text/css
+
+Uri: https://russia-samp.ru/index.html
+File Name: c:\Downloaded Web Sites\russia-samp.ru\index.html
+Content Type: text/html
+
+Uri: https://russia-samp.ru/donate.html
+File Name: c:\Downloaded Web Sites\russia-samp.ru\donate.html
+Content Type: text/html
+
+Uri: https://russia-samp.ru/R.png
+File Name: c:\Downloaded Web Sites\russia-samp.ru\R.png
+Content Type: image/png
+
+Uri: https://russia-samp.ru/images/go_hover.png
+File Name: c:\Downloaded Web Sites\russia-samp.ru\images\go_hover.png
+Content Type: image/png
+
+Uri: https://russia-samp.ru/images/go.png
+File Name: c:\Downloaded Web Sites\russia-samp.ru\images\go.png
+Content Type: image/png
+
+Uri: https://russia-samp.ru/images/payments.png
+File Name: c:\Downloaded Web Sites\russia-samp.ru\images\payments.png
+Content Type: image/png
+
+Uri: https://russia-samp.ru/bootstrap/js/bootstrap.min.js
+File Name: c:\Downloaded Web Sites\russia-samp.ru\bootstrap\js\bootstrap.min.js
+Content Type: application/x-javascript
+
+Uri: https://russia-samp.ru/owl/owl.carousel.min.js
+File Name: c:\Downloaded Web Sites\russia-samp.ru\owl\owl.carousel.min.js
+Content Type: application/x-javascript
+
+Uri: https://russia-samp.ru/css/stylef65e.css?29112017011804
+File Name: c:\Downloaded Web Sites\russia-samp.ru\css\stylef65e-1.css
+Content Type: text/css
+
+Uri: https://russia-samp.ru/css/responsivef65e.css?29112017011804
+File Name: c:\Downloaded Web Sites\russia-samp.ru\css\responsivef65e-1.css
+Content Type: text/css
+
+Uri: https://russia-samp.ru/images/logotype.png
+File Name: c:\Downloaded Web Sites\russia-samp.ru\images\logotype.png
+Content Type: image/png
+
+Uri: https://russia-samp.ru/images/404.png
+File Name: c:\Downloaded Web Sites\russia-samp.ru\images\404.png
+Content Type: image/png
+
+Uri: https://russia-samp.ru/js/jquery.min.js
+File Name: c:\Downloaded Web Sites\russia-samp.ru\js\jquery.min.js
+Content Type: application/x-javascript
+
+Uri: https://russia-samp.ru/js/script3a64.js?506012018043519
+File Name: c:\Downloaded Web Sites\russia-samp.ru\js\script3a64.js
+Content Type: application/x-javascript
+
+Uri: https://russia-samp.ru/bootstrap/fonts/glyphicons-halflings-regular.eot
+File Name: c:\Downloaded Web Sites\russia-samp.ru\bootstrap\fonts\glyphicons-halflings-regular.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://russia-samp.ru/bootstrap/fonts/glyphicons-halflings-regulard41d.eot?
+File Name: c:\Downloaded Web Sites\russia-samp.ru\bootstrap\fonts\glyphicons-halflings-regulard41d.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://russia-samp.ru/bootstrap/fonts/glyphicons-halflings-regular.woff2
+File Name: c:\Downloaded Web Sites\russia-samp.ru\bootstrap\fonts\glyphicons-halflings-regular.woff2
+Content Type: application/font-woff2
+
+Uri: https://russia-samp.ru/bootstrap/fonts/glyphicons-halflings-regular.woff
+File Name: c:\Downloaded Web Sites\russia-samp.ru\bootstrap\fonts\glyphicons-halflings-regular.woff
+Content Type: application/font-woff
+
+Uri: https://russia-samp.ru/bootstrap/fonts/glyphicons-halflings-regular.ttf
+File Name: c:\Downloaded Web Sites\russia-samp.ru\bootstrap\fonts\glyphicons-halflings-regular.bin
+Content Type: application/octet-stream
+
+Uri: https://russia-samp.ru/bootstrap/fonts/glyphicons-halflings-regular.svg
+File Name: c:\Downloaded Web Sites\russia-samp.ru\bootstrap\fonts\glyphicons-halflings-regular.svg
+Content Type: image/svg+xml
+
+Uri: https://russia-samp.ru/fonts/awesome/fonts/fontawesome-webfont3e6e.eot?v=4.7.0
+File Name: c:\Downloaded Web Sites\russia-samp.ru\fonts\awesome\fonts\fontawesome-webfont3e6e.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://russia-samp.ru/fonts/awesome/fonts/fontawesome-webfontd41d.eot?
+File Name: c:\Downloaded Web Sites\russia-samp.ru\fonts\awesome\fonts\fontawesome-webfontd41d.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://russia-samp.ru/fonts/awesome/fonts/fontawesome-webfont3e6e.woff2?v=4.7.0
+File Name: c:\Downloaded Web Sites\russia-samp.ru\fonts\awesome\fonts\fontawesome-webfont3e6e.woff2
+Content Type: application/font-woff2
+
+Uri: https://russia-samp.ru/fonts/awesome/fonts/fontawesome-webfont3e6e.woff?v=4.7.0
+File Name: c:\Downloaded Web Sites\russia-samp.ru\fonts\awesome\fonts\fontawesome-webfont3e6e.woff
+Content Type: application/font-woff
+
+Uri: https://russia-samp.ru/fonts/awesome/fonts/fontawesome-webfont3e6e.ttf?v=4.7.0
+File Name: c:\Downloaded Web Sites\russia-samp.ru\fonts\awesome\fonts\fontawesome-webfont3e6e.bin
+Content Type: application/octet-stream
+
+Uri: https://russia-samp.ru/fonts/awesome/fonts/fontawesome-webfont3e6e.svg?v=4.7.0
+File Name: c:\Downloaded Web Sites\russia-samp.ru\fonts\awesome\fonts\fontawesome-webfont3e6e.svg
+Content Type: image/svg+xml
+
+Uri: https://russia-samp.ru/owl/assets/owl.video.play.png
+File Name: c:\Downloaded Web Sites\russia-samp.ru\owl\assets\owl.video.play.png
+Content Type: image/png
+
+Uri: https://russia-samp.ru/fonts/circle/Circe-Regular.eot
+File Name: c:\Downloaded Web Sites\russia-samp.ru\fonts\circle\Circe-Regular.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://russia-samp.ru/fonts/circle/Circe-Regulard41d.eot?
+File Name: c:\Downloaded Web Sites\russia-samp.ru\fonts\circle\Circe-Regulard41d.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://russia-samp.ru/fonts/circle/Circe-Regular.svg
+File Name: c:\Downloaded Web Sites\russia-samp.ru\fonts\circle\Circe-Regular.svg
+Content Type: image/svg+xml
+
+Uri: https://russia-samp.ru/fonts/circle/Circe-Regular.woff
+File Name: c:\Downloaded Web Sites\russia-samp.ru\fonts\circle\Circe-Regular.woff
+Content Type: application/font-woff
+
+Uri: https://russia-samp.ru/fonts/circle/Circe-Regular.ttf
+File Name: c:\Downloaded Web Sites\russia-samp.ru\fonts\circle\Circe-Regular.bin
+Content Type: application/octet-stream
+
+Uri: https://russia-samp.ru/fonts/circle/Circe-Bold.eot
+File Name: c:\Downloaded Web Sites\russia-samp.ru\fonts\circle\Circe-Bold.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://russia-samp.ru/fonts/circle/Circe-Boldd41d.eot?
+File Name: c:\Downloaded Web Sites\russia-samp.ru\fonts\circle\Circe-Boldd41d.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://russia-samp.ru/fonts/circle/Circe-Bold.svg
+File Name: c:\Downloaded Web Sites\russia-samp.ru\fonts\circle\Circe-Bold.svg
+Content Type: image/svg+xml
+
+Uri: https://russia-samp.ru/fonts/circle/Circe-Bold.woff
+File Name: c:\Downloaded Web Sites\russia-samp.ru\fonts\circle\Circe-Bold.woff
+Content Type: application/font-woff
+
+Uri: https://russia-samp.ru/fonts/circle/Circe-Bold.ttf
+File Name: c:\Downloaded Web Sites\russia-samp.ru\fonts\circle\Circe-Bold.bin
+Content Type: application/octet-stream
+
+Uri: https://russia-samp.ru/fonts/circle/Circe-Light.eot
+File Name: c:\Downloaded Web Sites\russia-samp.ru\fonts\circle\Circe-Light.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://russia-samp.ru/fonts/circle/Circe-Lightd41d.eot?
+File Name: c:\Downloaded Web Sites\russia-samp.ru\fonts\circle\Circe-Lightd41d.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://russia-samp.ru/fonts/circle/Circe-Light.svg
+File Name: c:\Downloaded Web Sites\russia-samp.ru\fonts\circle\Circe-Light.svg
+Content Type: image/svg+xml
+
+Uri: https://russia-samp.ru/fonts/circle/Circe-Light.woff
+File Name: c:\Downloaded Web Sites\russia-samp.ru\fonts\circle\Circe-Light.woff
+Content Type: application/font-woff
+
+Uri: https://russia-samp.ru/fonts/circle/Circe-Light.ttf
+File Name: c:\Downloaded Web Sites\russia-samp.ru\fonts\circle\Circe-Light.bin
+Content Type: application/octet-stream
+
+Uri: https://russia-samp.ru/fonts/circle/Circe-ExtraLight.eot
+File Name: c:\Downloaded Web Sites\russia-samp.ru\fonts\circle\Circe-ExtraLight.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://russia-samp.ru/fonts/circle/Circe-ExtraLightd41d.eot?
+File Name: c:\Downloaded Web Sites\russia-samp.ru\fonts\circle\Circe-ExtraLightd41d.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://russia-samp.ru/fonts/circle/Circe-ExtraLight.svg
+File Name: c:\Downloaded Web Sites\russia-samp.ru\fonts\circle\Circe-ExtraLight.svg
+Content Type: image/svg+xml
+
+Uri: https://russia-samp.ru/fonts/circle/Circe-ExtraLight.woff
+File Name: c:\Downloaded Web Sites\russia-samp.ru\fonts\circle\Circe-ExtraLight.woff
+Content Type: application/font-woff
+
+Uri: https://russia-samp.ru/fonts/circle/Circe-ExtraLight.ttf
+File Name: c:\Downloaded Web Sites\russia-samp.ru\fonts\circle\Circe-ExtraLight.bin
+Content Type: application/octet-stream
+
+Uri: https://russia-samp.ru/fonts/circle/Circe-Thin.eot
+File Name: c:\Downloaded Web Sites\russia-samp.ru\fonts\circle\Circe-Thin.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://russia-samp.ru/fonts/circle/Circe-Thind41d.eot?
+File Name: c:\Downloaded Web Sites\russia-samp.ru\fonts\circle\Circe-Thind41d.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://russia-samp.ru/fonts/circle/Circe-Thin.svg
+File Name: c:\Downloaded Web Sites\russia-samp.ru\fonts\circle\Circe-Thin.svg
+Content Type: image/svg+xml
+
+Uri: https://russia-samp.ru/fonts/circle/Circe-Thin.woff
+File Name: c:\Downloaded Web Sites\russia-samp.ru\fonts\circle\Circe-Thin.woff
+Content Type: application/font-woff
+
+Uri: https://russia-samp.ru/fonts/circle/Circe-Thin.ttf
+File Name: c:\Downloaded Web Sites\russia-samp.ru\fonts\circle\Circe-Thin.bin
+Content Type: application/octet-stream
+
+Uri: https://russia-samp.ru/images/bg_top.png
+File Name: c:\Downloaded Web Sites\russia-samp.ru\images\bg_top.png
+Content Type: image/png
+
+Uri: https://russia-samp.ru/images/bg_vk.png
+File Name: c:\Downloaded Web Sites\russia-samp.ru\images\bg_vk.png
+Content Type: image/png
+
+Uri: https://russia-samp.ru/images/vk_man.png
+File Name: c:\Downloaded Web Sites\russia-samp.ru\images\vk_man.png
+Content Type: image/png
+
+Uri: https://russia-samp.ru/images/casemoney.png
+File Name: c:\Downloaded Web Sites\russia-samp.ru\images\casemoney.png
+Content Type: image/png
+
+Uri: https://russia-samp.ru/images/bg_login.png
+File Name: c:\Downloaded Web Sites\russia-samp.ru\images\bg_login.png
+Content Type: image/png
+
+Uri: https://russia-samp.ru/images/bg_how.png
+File Name: c:\Downloaded Web Sites\russia-samp.ru\images\bg_how.png
+Content Type: image/png
+
+Uri: https://russia-samp.ru/images/bg_donate.png
+File Name: c:\Downloaded Web Sites\russia-samp.ru\images\bg_donate.png
+Content Type: image/png
+
+Uri: https://russia-samp.ru/images/bg_easy.jpg
+File Name: c:\Downloaded Web Sites\russia-samp.ru\images\bg_easy.jpg
+Content Type: image/jpeg
+
+Uri: https://russia-samp.ru/images/mods_left_man.png
+File Name: c:\Downloaded Web Sites\russia-samp.ru\images\mods_left_man.png
+Content Type: image/png
+
+Uri: https://russia-samp.ru/images/mods_right_man.png
+File Name: c:\Downloaded Web Sites\russia-samp.ru\images\mods_right_man.png
+Content Type: image/png
+
+Uri: https://russia-samp.ru/images/bg_mobile_donate.png
+File Name: c:\Downloaded Web Sites\russia-samp.ru\images\bg_mobile_donate.png
+Content Type: image/png
+
+Uri: https://russia-samp.ru/oferta.pdf
+File Name: c:\Downloaded Web Sites\russia-samp.ru\oferta.pdf
+Content Type: application/pdf
+
+Uri: https://russia-samp.ru/politic.pdf
+File Name: c:\Downloaded Web Sites\russia-samp.ru\politic.pdf
+Content Type: application/pdf
+
